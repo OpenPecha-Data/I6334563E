@@ -1,0 +1,39 @@
+id: I6334563E
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T13:18:03.780178'
+last_modified: '2022-06-19T13:18:03.780195'
+parser: null
+source_metadata:
+  title: Hagiography of dPal ldan tshul khrims (1333–1399); Lamdre Lobshe, vol. ka,
+    title no. 19, from the chronological biographies of the Lamdre lineage masters
+  author: མུས་ཆེན་སེམས་དཔའ་ཆེན་པོ།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2013-08-19);
+    converted from external file, unrevised, spell-checked, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:རྫོང་སར་ཁམས་བྱེའི་ལྔ་རིག་སློབ་གླིང་། སྡེ་དགེ་རྫོང་སར། (dzkj)
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/371
+  bases:
+    92ff:
+      title: Hagiography of dPal ldan tshul khrims (1333–1399); Lamdre Lobshe, vol.
+        ka, title no. 19, from the chronological biographies of the Lamdre lineage
+        masters
+      order: 1
+      base_file: 92ff.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
